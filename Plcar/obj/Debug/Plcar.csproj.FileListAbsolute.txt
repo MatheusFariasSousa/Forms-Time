@@ -1,0 +1,10 @@
+F:\Placar\Plcar\Plcar\bin\Debug\Plcar.exe.config
+F:\Placar\Plcar\Plcar\bin\Debug\Plcar.exe
+F:\Placar\Plcar\Plcar\bin\Debug\Plcar.pdb
+F:\Placar\Plcar\Plcar\obj\Debug\Plcar.csproj.AssemblyReference.cache
+F:\Placar\Plcar\Plcar\obj\Debug\Plcar.Form1.resources
+F:\Placar\Plcar\Plcar\obj\Debug\Plcar.Properties.Resources.resources
+F:\Placar\Plcar\Plcar\obj\Debug\Plcar.csproj.GenerateResource.cache
+F:\Placar\Plcar\Plcar\obj\Debug\Plcar.csproj.CoreCompileInputs.cache
+F:\Placar\Plcar\Plcar\obj\Debug\Plcar.exe
+F:\Placar\Plcar\Plcar\obj\Debug\Plcar.pdb
